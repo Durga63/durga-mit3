@@ -1,0 +1,58 @@
+.container1 {
+    display: flexbox;
+    flex-direction: column;
+    margin-left: 600px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+
+
+}
+
+.one {
+    padding: 20px;
+    width: 450px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 600px;
+
+}
+
+input {
+    padding: 20px;
+    margin: 10px;
+    width: 450px;
+    border-radius: 3px;
+}
+
+button {
+    margin: 20px;
+    background-color: seagreen;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    width: 480px;
+    border-radius: 10px;
+
+}
+
+b {
+    color: brown;
+}
+
+body {
+    background-color: indianred;
+    background-image: url("./images/bg-intro-desktop.png");
+}
+
+.container {
+    display: flex;
+    color: white;
+
+
+}
+p{
+    color: black;
+}
